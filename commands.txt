@@ -1,0 +1,6 @@
+Start virtual environment
+- $ source ll_env/Scripts/activate
+- $ deactivate
+
+Run dev server
+- $ python manage.py runserver
